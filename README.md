@@ -8,3 +8,12 @@
 ```
 $ python3 -m pip install openai tesseract pyautogui pyperclip
 ```
+
+<samp> Guide </samp>
+------------
+```
+optional arguments:
+  -h, --help  Show this help message and exit
+  -q          Query the extracted text to ChatGPT
+  -c          Copy the extracted text to clipboard
+```
