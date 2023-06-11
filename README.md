@@ -8,6 +8,10 @@
 ```
 $ python3 -m pip install openai tesseract pyautogui pyperclip
 ```
+<samp> This program uses scrot to take screenshots, so you may need to install scrot on your Linux desktop. </samp>
+```
+$ sudo apt install scrot
+```
 
 <samp> Guide </samp>
 ------------
